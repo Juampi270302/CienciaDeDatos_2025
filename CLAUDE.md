@@ -1,0 +1,3 @@
+This is a data science learning project. We are in the phase of data cleaning, EDA, and preparation of the final dataset with which we will make predictions. The dataset is a CSV located at dataset/OnlineNewsPopularity.csv.
+
+Create new cells when you propose code, or edit specific cells when necessary. I expect cells to be between 1 and 50 LOC max. Do not use comments, and `print` string arguments must be in Spanish.
