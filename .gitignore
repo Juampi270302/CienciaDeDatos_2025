@@ -1,2 +1,2 @@
-./conda_env/*
-./.idea/*
+./conda_env
+./.idea
