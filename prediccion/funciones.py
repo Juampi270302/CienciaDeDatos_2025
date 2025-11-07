@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 def cargar_datos_limpios():
-    return pd.read_csv('../dataset/datos_limpios.csv', skipinitialspace=True)
+    return pd.read_csv('dataset/datos_limpios_nuevo.csv', skipinitialspace=True)
 
 
 def diccionario_tipos_atributos():
